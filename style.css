@@ -11,7 +11,7 @@ html, body {
 #parent {
     width: 100%;
     height: 30%;
-    background-image: url(/back.jpg);
+    background-image: url(./back.jpg);
     display: inline-block;
     text-align: center;
     position: relative;
@@ -34,7 +34,7 @@ html, body {
 #doList {
     width: 100%;
     height: 70%;
-    background-image: url(/back2.jpg);
+    background-image: url(./back2.jpg);
 }
 #lineId {
     width: 100%;
