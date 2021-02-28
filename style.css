@@ -41,6 +41,8 @@ html, body {
     height: 50px;
     border: black solid 1px;
     transition: 1s;
+    font-family: cursive;
+    padding-left: 1%;
     
 }
 #lineId:hover {
